@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\benkb\\source\\repos\\SampleVerify\\SampleVerify.Application\\SampleVerify.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\benkb\\source\\repos\\SampleVerify\\SampleVerify.Application\\SampleVerify.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\benkb\\source\\repos\\SampleVerify\\SampleVerify.Application\\SampleVerify.Application.csproj",
+        "projectName": "SampleVerify.Application",
+        "projectPath": "C:\\Users\\benkb\\source\\repos\\SampleVerify\\SampleVerify.Application\\SampleVerify.Application.csproj",
+        "packagesPath": "C:\\Users\\benkb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\benkb\\source\\repos\\SampleVerify\\SampleVerify.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\benkb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\benkb\\source\\repos\\SampleVerify\\SampleVerify.Domain\\SampleVerify.Domain.csproj": {
+                "projectPath": "C:\\Users\\benkb\\source\\repos\\SampleVerify\\SampleVerify.Domain\\SampleVerify.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\benkb\\source\\repos\\SampleVerify\\SampleVerify.Domain\\SampleVerify.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\benkb\\source\\repos\\SampleVerify\\SampleVerify.Domain\\SampleVerify.Domain.csproj",
+        "projectName": "SampleVerify.Domain",
+        "projectPath": "C:\\Users\\benkb\\source\\repos\\SampleVerify\\SampleVerify.Domain\\SampleVerify.Domain.csproj",
+        "packagesPath": "C:\\Users\\benkb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\benkb\\source\\repos\\SampleVerify\\SampleVerify.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\benkb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

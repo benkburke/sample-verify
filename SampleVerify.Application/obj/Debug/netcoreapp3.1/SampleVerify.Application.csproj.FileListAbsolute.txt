@@ -1,0 +1,11 @@
+C:\Users\benkb\source\repos\SampleVerify\SampleVerify.Application\bin\Debug\netcoreapp3.1\SampleVerify.Application.deps.json
+C:\Users\benkb\source\repos\SampleVerify\SampleVerify.Application\bin\Debug\netcoreapp3.1\SampleVerify.Application.dll
+C:\Users\benkb\source\repos\SampleVerify\SampleVerify.Application\bin\Debug\netcoreapp3.1\SampleVerify.Application.pdb
+C:\Users\benkb\source\repos\SampleVerify\SampleVerify.Application\obj\Debug\netcoreapp3.1\SampleVerify.Application.csprojAssemblyReference.cache
+C:\Users\benkb\source\repos\SampleVerify\SampleVerify.Application\obj\Debug\netcoreapp3.1\SampleVerify.Application.AssemblyInfoInputs.cache
+C:\Users\benkb\source\repos\SampleVerify\SampleVerify.Application\obj\Debug\netcoreapp3.1\SampleVerify.Application.AssemblyInfo.cs
+C:\Users\benkb\source\repos\SampleVerify\SampleVerify.Application\obj\Debug\netcoreapp3.1\SampleVerify.Application.dll
+C:\Users\benkb\source\repos\SampleVerify\SampleVerify.Application\obj\Debug\netcoreapp3.1\SampleVerify.Application.pdb
+C:\Users\benkb\source\repos\SampleVerify\SampleVerify.Application\bin\Debug\netcoreapp3.1\SampleVerify.Domain.dll
+C:\Users\benkb\source\repos\SampleVerify\SampleVerify.Application\bin\Debug\netcoreapp3.1\SampleVerify.Domain.pdb
+C:\Users\benkb\source\repos\SampleVerify\SampleVerify.Application\obj\Debug\netcoreapp3.1\SampleVerify.Application.csproj.CopyComplete
