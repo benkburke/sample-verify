@@ -9,7 +9,7 @@
     "connected-react-router": "6.7.0",
     "fluentvalidation-ts": "2.1.5",
     "history": "4.10.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "merge": "1.2.1",
     "popper.js": "^1.16.1",
     "react": "16.12.0",
