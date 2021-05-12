@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.0",
     "@material-ui/icons": "^4.5.1",
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "connected-react-router": "6.7.0",
     "fluentvalidation-ts": "2.1.5",
     "history": "4.10.1",
